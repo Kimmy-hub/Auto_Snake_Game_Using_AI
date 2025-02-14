@@ -20,7 +20,7 @@ A classic Snake game implemented in HTML, CSS, and JavaScript, featuring an AI t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/Kimmy-hub/Auto_Snake_Game_Using_AI.git
 
 2. Navigate to the project directory:
    ```bash
